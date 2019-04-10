@@ -31,4 +31,13 @@ The work aims at designing a system that detects gas leakage and alerts the subs
 
 
 
- 
+## Known Bugs
+There are no known bugs for this project at the moment.
+## Technologies Used
+* C Programming Language
+* Arduino IDE
+
+### License
+*This project is licensed under the MIT License - see the LICENSE.md file for details*
+Copyright (c) {2019} **{GASOUT TEAM}**
+
