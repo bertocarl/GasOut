@@ -1,5 +1,5 @@
 ## Team Members:
-- Albert Omware - Scrum Master
+- Albert Omware - Scrum Master, Intergration of GSM module
 - Ivy Mwende - Intergration of the gas sensor
 - David Watibini - Intergration of the servo motor
 - Joseck Ogachi - Intergration of the lcd display module
