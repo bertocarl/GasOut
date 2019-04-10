@@ -12,7 +12,7 @@ The work aims at designing a system that detects gas leakage and alerts the subs
 
 ## Circuit Diagram:
 
-![circuitdiagram](https://cloud.githubusercontent.com/assets/22201681/20031919/a93ee092-a3a5-11e6-867d-841b9adb359f.png)
+![circuitdiagram](gas-circuit.png)
 
 ## Components Required:
 
@@ -31,3 +31,4 @@ The work aims at designing a system that detects gas leakage and alerts the subs
 
 
 
+ 
